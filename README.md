@@ -2,4 +2,4 @@
 Simple Heal Command
 
 ## How to compile:
-```gradlew build```
+```./gradlew build```
