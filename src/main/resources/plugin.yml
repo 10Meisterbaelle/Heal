@@ -1,0 +1,10 @@
+name: Heal
+version: @version@
+main: com.xmeisterbaelle.heal.Main
+api-version: 1.16
+authors: [ 10Meisterbaelle ]
+description: Simple Heal Command
+commands:
+  heal:
+    description: Heals a player
+    usage: /heal [player]
